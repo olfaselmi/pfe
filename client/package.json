@@ -82,6 +82,7 @@
     ]
   },
   "devDependencies": {
-    "@types/react-gravatar": "^2.6.10"
+    "@types/react-gravatar": "^2.6.10",
+    "babel-loader": "^9.1.3"
   }
 }
