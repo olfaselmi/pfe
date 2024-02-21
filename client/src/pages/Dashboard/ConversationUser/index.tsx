@@ -33,7 +33,7 @@ import { MessagesTypes } from "../../../data/messages";
 import { pinnedTabs } from "../../../data/index";
 import UserHead from "./UserHead";
 
-const socket = io("http://localhost:5000/");
+const socket = io("https://pfe-server-olfaselmis-projects.vercel.app/");
 
 interface IndexProps {
   isChannel: boolean;
